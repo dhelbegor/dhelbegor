@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Dhelbegor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhelbegor&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhelbegor&langs_count=10&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhelbegor&langs_count=10&count_private=false&layout=compact)
