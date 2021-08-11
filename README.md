@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![Dhelbegor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhelbegor&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhelbegor&langs_count=10&count_private=false&layout=compact&theme=dark)
+
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
