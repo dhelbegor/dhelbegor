@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elm-092E20?style=for-the-badge&logo=elm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elm-3776AB?style=for-the-badge&logo=elm&logoColor=white" />
 </div>
